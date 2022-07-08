@@ -10,7 +10,6 @@
 - [Train, Validation, Inference Scripts](#train-validation-inference-scripts)
 - [Awesome PyTorch Resources](#awesome-pytorch-resources)
 - [Licenses](#licenses)
-- [Citing](#citing)
 
 ## Sponsors
 
