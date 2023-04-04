@@ -8,7 +8,7 @@ node = onnx.helper.make_node(
     outputs=['y'],
 )
 
-pass
+//pass
 
 x = np.random.randn(6, 4, 5).astype(np.float32)
 y = x[0:3, 0:4]
